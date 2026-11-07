@@ -8,6 +8,9 @@ Presets/
 Backups/
 Band/
 LOG.md
+
+# But always keep the templates folder
+!templates/
 *.docx
 *.pdf
 *.json
