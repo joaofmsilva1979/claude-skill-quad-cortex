@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Personal workspace files — never commit these
+Manual/
+Transcriptions/
+Presets/
+Backups/
+Band/
+LOG.md
+*.docx
+*.pdf
+*.json
+*.xlsx
+*.webloc
+
+# Python / MCP local installs
+.venv/
+__pycache__/
+*.pyc
