@@ -9,8 +9,10 @@ Backups/
 Band/
 LOG.md
 
-# But always keep the templates folder
+# But always keep the templates folder and its contents
 !templates/
+!templates/Transcriptions/
+!templates/Transcriptions/*.md
 *.docx
 *.pdf
 *.json

@@ -165,6 +165,7 @@ No prose. Raw facts.
 | Routing / lanes | files mentioning "lanes", "routing" |
 | General preset | files mentioning "tweak", "EQ" |
 | Heavy / rock | files mentioning "high gain", "metal" |
+| Mistakes / Fundamentals | `QC_16_common_mistakes_avoid.md` (too many FX, cab, gain staging, cuts, volume) |
 
 **Dispatch prompt:**
 ```
